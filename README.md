@@ -7,8 +7,8 @@
   </h3>
   <br>
 
-  Good day!<br>
-  I am Seonghoon Kim who is interested in Apple iOS Development from South Korea.👋<br>
+  Good day!👋<br>
+  I am Seonghoon Kim who is interested in Apple iOS Development from South Korea.😁<br>
   if you want to contact me, please leave me any messages! 📩<br>
   <p><br><br></p>
   
