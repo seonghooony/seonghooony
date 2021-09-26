@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&customColorList=0,2,2,5&height=150&section=header&text=Seonghoon%20Kim&fontSize=60&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&customColorList=0,1,2,3&height=150&section=header&text=Seonghoon%20Kim&fontSize=60&animation=fadeIn" />
 
 
 Hi there 😄
