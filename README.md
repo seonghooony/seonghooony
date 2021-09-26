@@ -2,7 +2,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=random&height=80&section=header" />
 
 <div align="center">
-  <br>
   <h3>
     Hi there!😄  
   </h3>
