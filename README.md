@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&customColorList=0,2,9,10,12,13,19,21,23&height=170&section=header&text=Seonghoon%20Kim&fontSize=50&desc=iOS Developer&fontAlignY=45&descAlign=64&descAlignY=75&animation=fadeIn" />
 
-<img src="https://capsule-render.vercel.app/api?type=Transparent&color=random&height=17&text=desciptio" />
+<img src="https://capsule-render.vercel.app/api?type=Transparent&height=170" />
 
 
 Hi there 😄
