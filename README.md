@@ -4,7 +4,7 @@
   <h3>
     Hi there!😄  
   </h3>
-    
+  <br>
   Good day!👋<br>
   I am Seonghoon Kim who is interested in Apple iOS Development from South Korea.😁<br>
   if you want to contact me, please leave me any messages! 📩<br>
@@ -31,6 +31,9 @@
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/></a>
+  <br>
+  <br>
+  <br>
   <br>
   
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonghooony&count_bg=%23E3E5CC&title_bg=%2317A9AE&icon=apple.svg&icon_color=%232AD3B6&title=Visited&edge_flat=false"/></a>
