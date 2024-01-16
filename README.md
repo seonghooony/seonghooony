@@ -1,15 +1,16 @@
+
 ## 🧑🏻‍💻 Seonghoon Kim
 이미지넣기
-
+<div align="center">
 <h3>🔗 find me</h3>
 
-  <div></div>
+  <div>
     <a href="mailto:hanrinsa2@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
     <a href="https://seonghooony.tistory.com"><img src="https://img.shields.io/badge/Blog-EA5220?style=flat-square&logo=Tistory&logoColor=white"/></a> 
     <a href="https://power-strand-7f4.notion.site/Seonghoon-Kim-b9cbf116a58e41cb9879bc509b02c280?pvs=4"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a>
   </div>
-  <br>
-  <br>
+  </br>
+  </br>
   <h3>⚙️ Skills</h3>
   <div>
     <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white"/>
@@ -29,9 +30,9 @@
     <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=Apple&logoColor=white"/>
   </div>
   
-  <br>
-  <br>
-  <br>
+  </br>
+  </br>
+  </br>
 
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonghooony&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   !-->
@@ -39,7 +40,7 @@
 <a href="https://github.com/seonghooony"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonghooony&count_bg=%23E3E5CC&title_bg=%2317A9AE&icon=apple.svg&icon_color=%232AD3B6&title=Visited&edge_flat=false"/></a>
 
 
-
+</div>
 
 
 
