@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
     <br>
-    <img src="https://img.shields.io/badge/SnapKit-B7178C?style=flat-square"/>
+    <img src="https://img.shields.io/badge/SnapKit-0095BD?style=flat-square"/>
     <img src="https://img.shields.io/badge/Alamofire-D84327?style=flat-square"/>
     <img src="https://img.shields.io/badge/ReactorKit-6EA1E0?style=flat-square"/>
     <br>
