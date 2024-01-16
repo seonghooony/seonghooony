@@ -19,8 +19,8 @@
     <img src="https://img.shields.io/badge/Alamofire-D84327?style=flat-square"/>
     <img src="https://img.shields.io/badge/ReactorKit-6EA1E0?style=flat-square"/>
     <br>
-    <img src="https://img.shields.io/badge/MVVM-000000?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Clean Architecture-000000?style=flat-square"/>
+    <img src="https://img.shields.io/badge/MVVM-009000?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Clean Architecture-80FF00?style=flat-square"/>
   </div>
   
   <br>
