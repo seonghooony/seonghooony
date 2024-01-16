@@ -5,9 +5,9 @@
 
   <a href="mailto:hanrinsa2@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> hanrinsa2@naver.com
   
-  <a href="https://seonghooony.tistory.com"><img src="https://img.shields.io/badge/Blog-EA5220?style=flat-square&logo=Tistory&logoColor=white"/></a> seonghooony.tistory.com
+  <a href="https://seonghooony.tistory.com"><img src="https://img.shields.io/badge/Blog-EA5220?style=flat-square&logo=Tistory&logoColor=white"/></a> [seonghooony.tistory.com](https://seonghooony.tistory.com)
   
-  <a href="https://power-strand-7f4.notion.site/Seonghoon-Kim-b9cbf116a58e41cb9879bc509b02c280?pvs=4"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a> my notion
+  <a href="https://power-strand-7f4.notion.site/Seonghoon-Kim-b9cbf116a58e41cb9879bc509b02c280?pvs=4"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a> [my notion](https://power-strand-7f4.notion.site/Seonghoon-Kim-b9cbf116a58e41cb9879bc509b02c280?pvs=4)
 
   <h3>⚙️ Skills</h3>
   <div>
