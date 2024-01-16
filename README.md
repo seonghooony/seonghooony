@@ -3,7 +3,7 @@
 
 ## Where to find me
 <div>
-  <a href="hanrinsa2@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <a href="mailto:hanrinsa2@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </div>
 
   <h3>⚙️Skills</h3>
