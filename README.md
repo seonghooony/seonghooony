@@ -3,7 +3,7 @@
 
 ## Where to find me
 <div>
-  <img src="https://img.shields.io/badge/Xcode-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/hanrinsa@naver.com-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
 </div>
 
   <h3>⚙️Skills</h3>
