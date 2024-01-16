@@ -10,9 +10,6 @@
 
   <h3>⚙️ Skills</h3>
   <div>
-    <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
-    <br>
     <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
     <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
     <br>
@@ -22,6 +19,9 @@
     <br>
     <img src="https://img.shields.io/badge/MVVM-009000?style=flat-square"/>
     <img src="https://img.shields.io/badge/Clean Architecture-80FF00?style=flat-square"/>
+    <br>
+    <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
   </div>
   
   <br>
