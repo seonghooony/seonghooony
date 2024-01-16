@@ -12,21 +12,21 @@
   <br>
   <h3>⚙️ Skills</h3>
   <div>
-    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/>
-    <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Swift-FA7343?style=flat&logo=Swift&logoColor=white"/>
+    <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat&logo=ReactiveX&logoColor=white"/>
     <br>
-    <img src="https://img.shields.io/badge/SnapKit-0095BD?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Alamofire-D84327?style=flat-square"/>
-    <img src="https://img.shields.io/badge/ReactorKit-6EA1E0?style=flat-square"/>
+    <img src="https://img.shields.io/badge/SnapKit-0095BD?style=flat"/>
+    <img src="https://img.shields.io/badge/Alamofire-D84327?style=flat"/>
+    <img src="https://img.shields.io/badge/ReactorKit-6EA1E0?style=flat"/>
     <br>
     <img src="https://img.shields.io/badge/MVVM-009000?style=flat-square"/>
-    <img src="https://img.shields.io/badge/Clean Architecture-80FF00?style=flat-square"/>
+    <img src="https://img.shields.io/badge/Clean Architecture-80FF00?style=flat"/>
     <br>
-    <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white"/>
+    <img src="https://img.shields.io/badge/SVN-809CC9?style=flat&logo=Subversion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-000000?style=flat&logo=Git&logoColor=white"/>
     <br>
-    <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
-    <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat&logo=Xcode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/iOS-000000?style=flat&logo=Apple&logoColor=white"/>
   </div>
   
   <br>
