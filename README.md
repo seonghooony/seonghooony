@@ -3,10 +3,14 @@
 
   <div>
     <a href="https://github.com/seonghooony"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonghooony&count_bg=%23E3E5CC&title_bg=%2317A9AE&icon=apple.svg&icon_color=%232AD3B6&title=Visited&edge_flat=false"/></a>
-    <a href="mailto:hanrinsa2@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
-    <a href="https://seonghooony.tistory.com"><img src="https://img.shields.io/badge/Blog-EA5220?style=flat-square&logo=Tistory&logoColor=white"/></a> 
-    <a href="https://power-strand-7f4.notion.site/Seonghoon-Kim-b9cbf116a58e41cb9879bc509b02c280?pvs=4"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a>
+    <a href="mailto:hanrinsa2@naver.com"><img src="https://img.shields.io/badge/sending Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> 
+    <a href="https://seonghooony.tistory.com"><img src="https://img.shields.io/badge/Go to Blog-EA5220?style=flat-square&logo=Tistory&logoColor=white"/></a> 
+    <a href="https://power-strand-7f4.notion.site/Seonghoon-Kim-b9cbf116a58e41cb9879bc509b02c280?pvs=4"><img src="https://img.shields.io/badge/Go to Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a>
   </div>
+
+  
+  <h3>Experience</h3>
+  - 
   
   </br>
   </br>
