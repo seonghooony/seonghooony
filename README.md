@@ -1,6 +1,7 @@
-<div align="center">
+
 ## 🧑🏻‍💻 Seonghoon Kim
 이미지넣기
+
 
 <h3>🔗 find me</h3>
 
@@ -36,11 +37,10 @@
 
   
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seonghooony&layout=compact)](https://github.com/anuraghazra/github-readme-stats)   !-->
-
+<div align="center">
 <a href="https://github.com/seonghooony"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseonghooony&count_bg=%23E3E5CC&title_bg=%2317A9AE&icon=apple.svg&icon_color=%232AD3B6&title=Visited&edge_flat=false"/></a>
-
-
 </div>
+
 
 
 
