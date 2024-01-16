@@ -3,7 +3,7 @@
 
 <h3>🔗 find me</h3>
 
-  <a href="mailto:hanrinsa2@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> &nbsp; hanrinsa2@naver.com
+  <a href="mailto:hanrinsa2@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> &nbsp; &nbsp;  hanrinsa2@naver.com
   
   <a href="https://seonghooony.tistory.com"><img src="https://img.shields.io/badge/Blog-EA5220?style=flat-square&logo=Tistory&logoColor=white"/></a> &nbsp; &nbsp;  [seonghooony.tistory.com](https://seonghooony.tistory.com)
   
