@@ -20,6 +20,9 @@
     <img src="https://img.shields.io/badge/MVVM-009000?style=flat-square"/>
     <img src="https://img.shields.io/badge/Clean Architecture-80FF00?style=flat-square"/>
     <br>
+    <img src="https://img.shields.io/badge/SVN-809CC9?style=flat-square&logo=Subversion&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white"/>
+    <br>
     <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/>
     <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/>
   </div>
