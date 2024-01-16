@@ -1,7 +1,7 @@
 ## 🧑🏻‍💻 Seonghoon Kim
 이미지넣기
 
-## Where to find me
+<h3>🔗find me</h3>
 <div>
   <a href="mailto:hanrinsa2@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="https://seonghooony.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
