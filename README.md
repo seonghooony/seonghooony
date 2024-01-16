@@ -5,7 +5,7 @@
 
   <a href="mailto:hanrinsa2@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a> &nbsp; &nbsp;  hanrinsa2@naver.com
   
-  <a href="https://seonghooony.tistory.com"><img src="https://img.shields.io/badge/Blog-EA5220?style=flat-square&logo=Tistory&logoColor=white"/></a> &nbsp; &nbsp;  [seonghooony.tistory.com](https://seonghooony.tistory.com)
+  <a href="https://seonghooony.tistory.com"><img src="https://img.shields.io/badge/Blog-EA5220?style=flat-square&logo=Tistory&logoColor=white"/></a> &nbsp; &nbsp; &nbsp;  [seonghooony.tistory.com](https://seonghooony.tistory.com)
   
   <a href="https://power-strand-7f4.notion.site/Seonghoon-Kim-b9cbf116a58e41cb9879bc509b02c280?pvs=4"><img src="https://img.shields.io/badge/Notion-ffffff?style=flat-square&logo=Notion&logoColor=black"/></a> &nbsp; [my notion](https://power-strand-7f4.notion.site/Seonghoon-Kim-b9cbf116a58e41cb9879bc509b02c280?pvs=4)
 
