@@ -1,19 +1,21 @@
 ## 🧑🏻‍💻 Seonghoon Kim
 이미지넣기
 
-<h3>🔗find me</h3>
+<h3>🔗 find me</h3>
 <div>
   <a href="mailto:hanrinsa2@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square&logo=Naver&logoColor=white"/></a>
   <a href="https://seonghooony.tistory.com"><img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/></a>
   <a href="https://power-strand-7f4.notion.site/Seonghoon-Kim-b9cbf116a58e41cb9879bc509b02c280?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
 </div>
 
-  <h3>⚙️Skills</h3>
+  <h3>⚙️ Skills</h3>
   <div>
   <img src="https://img.shields.io/badge/Xcode-147EFB?style=flat-square&logo=Xcode&logoColor=white"/></a>
-    <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/iOS-000000?style=flat-square&logo=Apple&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/RxSwift-B7178C?style=flat-square&logo=ReactiveX&logoColor=white"/></a>
+    <img src="https://img.shields.io/badge/MVVM-000000?style=flat-square"/></a>
+    <img src="https://img.shields.io/badge/Clean Architecture-000000?style=flat-square"/></a>
   </div>
   
   <br>
