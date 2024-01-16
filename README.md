@@ -9,15 +9,17 @@
 </div>
 </br>
 </br>
-</br>
+
 👋🏼 hello, Glad to see you here!
+</br>
 </br>
 My name is Seonghoon Kim, I am a mobile developer using Swift (iOS).
 </br>
+</br>
 I am developing an iOS app, KovihouseVR. You can try the app here - <a href="https://apps.apple.com/kr/app/%EC%BD%94%EB%B9%84%ED%95%98%EC%9A%B0%EC%8A%A4vr-3d%EB%A1%9C-%EC%A6%90%EA%B8%B0%EB%8A%94-%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4/id1537031693"><img src="https://img.shields.io/badge/Go to App Store-0D96F6?style=flat&logo=App Store&logoColor=white"/></a>
 </br>
+</br>
 If you want more information, please visit my Notion site at the top.
-
 </br> 
 </br>
 </br>
