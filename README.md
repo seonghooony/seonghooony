@@ -9,7 +9,12 @@
   </div>
 
   
-👋🏼 Hello, my name is Seonghoon Kim, I am a iOS developer working at <img src="https://img.shields.io/badge/한국가상현실-7206FF?style=flat-square"/>
+👋🏼 hello, Glad to see you here! My name is Seonghoon Kim, I am a mobile developer using iOS (My most confident language is swift).
+I am developing an iOS app, KovihouseVR. You can try the app here - <a href="https://apps.apple.com/kr/app/%EC%BD%94%EB%B9%84%ED%95%98%EC%9A%B0%EC%8A%A4vr-3d%EB%A1%9C-%EC%A6%90%EA%B8%B0%EB%8A%94-%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4/id1537031693"><img src="https://img.shields.io/badge/Go to App Store-0D96F6?style=flat&logo=App Store&logoColor=white"/></a>
+If you want more infomation, please visit my Notion Site at the top.
+
+
+
 
   - 코비하우스VR iOS 앱 개발 - <a href="https://apps.apple.com/kr/app/%EC%BD%94%EB%B9%84%ED%95%98%EC%9A%B0%EC%8A%A4vr-3d%EB%A1%9C-%EC%A6%90%EA%B8%B0%EB%8A%94-%EC%9D%B8%ED%85%8C%EB%A6%AC%EC%96%B4/id1537031693"><img src="https://img.shields.io/badge/Go to App Store-0D96F6?style=flat&logo=App Store&logoColor=white"/></a>
   
