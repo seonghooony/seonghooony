@@ -1,7 +1,7 @@
-
+<div align="center">
 ## 🧑🏻‍💻 Seonghoon Kim
 이미지넣기
-<div align="center">
+
 <h3>🔗 find me</h3>
 
   <div>
